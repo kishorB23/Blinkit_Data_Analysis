@@ -25,7 +25,6 @@ The dataset used in this project includes (example attributes):
 - **Total Revenue**
 - **Customer Name/ID**
 
-> 📁 *(Note: Raw data is not included here due to confidentiality. You can replace with mock data for demo purposes.)*
 
 ---
 
@@ -63,7 +62,8 @@ The dataset used in this project includes (example attributes):
 
 ## 📷 Dashboard Preview
 
-*Add screenshots here to showcase your Power BI visuals*
+![image](https://github.com/user-attachments/assets/f1aaea24-8be3-4ef4-8b75-fcc4bc66ab61)
+
 
 ---
 
